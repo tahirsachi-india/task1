@@ -1,0 +1,13 @@
+| Column Name | Description |
+|-------------|-------------|
+| show_id | Unique ID |
+| type | Movie or TV Show |
+| title | Title of content |
+| director | Director name |
+| cast | Actors |
+| country | Country |
+| date_added | Date added |
+| release_year | Release year |
+| rating | Content rating |
+| duration | Duration |
+| listed_in | Genre |
